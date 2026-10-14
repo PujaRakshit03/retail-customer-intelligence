@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Keep datasets out of GitHub
+data/
+.venv/
+.env
+.env.*
+!.env.example
