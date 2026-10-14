@@ -1,7 +1,8 @@
 # Retail Customer Intelligence
 
 A local-first retail analytics and customer opportunity discovery application built on the real [UCI Online Retail dataset](https://archive.ics.uci.edu/dataset/352/online+retail). It combines data-quality checks, sales/product/country analytics, explainable customer segments, purchase-interval analysis, product pairs, cohort retention, and a chronological segment holdout check.
-
+## Demo Video
+[▶ Watch the Retail Customer Intelligence Dashboard Demo](https://youtu.be/PQzmdGdC6P0)
 ## Important analytical limits
 
 The dataset contains no product costs or operating expenses. This project reports **recorded sales value**, not profit or margin. Customer flags identify accounts worth investigating; they are not certain churn predictions or causal estimates. Cancellation invoice prefixes and negative quantities are retained as data-quality indicators rather than assumed to have a single interpretation.
